@@ -3,7 +3,7 @@ title: Elrona product 01
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_img_path: /images/p-01.jpg
-content_img_path: images/1.jpg
+content_img_path: /images/p-01.jpg
 layout: project
 ---
 
