@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: Elrona product 01
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_img_path: /images/p-01.jpg
